@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrep.Struct", "Quadrep.Struct\Quadrep.Struct.csproj", "{FD46EC82-5479-4975-9515-CC6AED9C5F68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadrep.Enum", "Quadrep.Enum\Quadrep.Enum.csproj", "{C025E487-2B06-4DDD-A494-B9E0E3CE178B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadrepAPI", "QuadrepAPI\QuadrepAPI.csproj", "{3B1F9D6A-E54C-4F05-9A98-D3F2B465145C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrep.Kinemics", "Quadrep.Kinemics\Quadrep.Kinemics.csproj", "{B8950BCF-2E5A-4DD6-908E-71BB88279899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterWpfApp", "TesterWpfApp\TesterWpfApp.csproj", "{70484103-AEB7-4022-B613-A7912A0800B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKControl", "..\Leo\20181228_OpenTK_3D\OpenTK_3D\TKControl\TKControl\TKControl.csproj", "{E642F0EA-FD54-4CD7-83A3-B40D6AC92702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD46EC82-5479-4975-9515-CC6AED9C5F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD46EC82-5479-4975-9515-CC6AED9C5F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD46EC82-5479-4975-9515-CC6AED9C5F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD46EC82-5479-4975-9515-CC6AED9C5F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C025E487-2B06-4DDD-A494-B9E0E3CE178B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C025E487-2B06-4DDD-A494-B9E0E3CE178B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C025E487-2B06-4DDD-A494-B9E0E3CE178B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C025E487-2B06-4DDD-A494-B9E0E3CE178B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1F9D6A-E54C-4F05-9A98-D3F2B465145C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1F9D6A-E54C-4F05-9A98-D3F2B465145C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1F9D6A-E54C-4F05-9A98-D3F2B465145C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1F9D6A-E54C-4F05-9A98-D3F2B465145C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8950BCF-2E5A-4DD6-908E-71BB88279899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8950BCF-2E5A-4DD6-908E-71BB88279899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8950BCF-2E5A-4DD6-908E-71BB88279899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8950BCF-2E5A-4DD6-908E-71BB88279899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70484103-AEB7-4022-B613-A7912A0800B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70484103-AEB7-4022-B613-A7912A0800B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70484103-AEB7-4022-B613-A7912A0800B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70484103-AEB7-4022-B613-A7912A0800B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E642F0EA-FD54-4CD7-83A3-B40D6AC92702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E642F0EA-FD54-4CD7-83A3-B40D6AC92702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E642F0EA-FD54-4CD7-83A3-B40D6AC92702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E642F0EA-FD54-4CD7-83A3-B40D6AC92702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF97EB95-C2E0-4B5B-9DD5-0A9BC8EAB6A3}
+	EndGlobalSection
+EndGlobal

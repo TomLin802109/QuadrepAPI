@@ -1,0 +1,9 @@
+TesterWpfApp/obj/
+TesterWpfApp/bin/
+Quadrep.Struct/bin/
+Quadrep.Struct/obj/
+Quadrep.Enum/bin/
+Quadrep.Enum/obj/
+packages/
+Quadrep.Enum/.vs/
+.vs/
